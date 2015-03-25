@@ -1,8 +1,0 @@
-#--------------------------------------------------------------+
-#          AephoutMCEssentials (Join & Quit Messages)          -
-#--------------------------------------------------------------+
-# Reminder:Use %player% for the players name.
-
-onJoinMessage: '&b&m---&7&m[- &7 %player% has joined &7&m-]&b&m---'
-
-onQuitMessage: '&b&m---&7&m[- &7 %player% has left &7&m-]&b&m---'
